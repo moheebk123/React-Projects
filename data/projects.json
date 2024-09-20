@@ -1,0 +1,57 @@
+[
+  {
+    "title": "CleverBooks",
+    "description": "Clones specific sections of the Crest homepage to replicate its layout and design.",
+    "codeLink": "https://github.com/moheebk123/CleverBooks",
+    "liveLink": "https://moheeb-khan-clever-books.vercel.app",
+    "imgUrl": "../assets/clever-books.png"
+  },
+  {
+    "title": "Uifry",
+    "description": "Implements a Figma design of homepage of Uifry with added animations to create an interactive user interface.",
+    "codeLink": "https://github.com/moheebk123/Uifry",
+    "liveLink": "https://moheeb-khan-uifry.vercel.app",
+    "imgUrl": "../assets/uifry.png"
+  },
+  {
+    "title": "Dogs List",
+    "description": "Fetches dog data from an API and displays each dog's image, breed, and qualities in card format, with search functionality based on breed and pagination support.",
+    "codeLink": "https://github.com/moheebk123/Dogs-List",
+    "liveLink": "https://moheeb-khan-dogs-list.vercel.app",
+    "imgUrl": "../assets/dogs-list.png"
+  },
+  {
+    "title": "Fakestore",
+    "description": "Fetches products from an API and displays each product in card format. Features include cart with total amount display, product detail view, and filters for category and search by product name.",
+    "codeLink": "https://github.com/moheebk123/Fakestore",
+    "liveLink": "https://moheeb-khan-fakestore.vercel.app",
+    "imgUrl": "../assets/fakestore.png"
+  },
+  {
+    "title": "Weather Application Dashboard",
+    "description": "Created a real-time weather dashboard with city search, location-based data, and features like search history, temperature toggle, themes, and dynamic backgrounds, fully responsive across devices.",
+    "codeLink": "https://github.com/moheebk123/Weather-Application-Dashboard",
+    "liveLink": "https://moheeb-khan-weather-application-dashboard.vercel.app",
+    "imgUrl": "../assets/weather-application-dashboard.png"
+  },
+  {
+    "title": "Note Keeping",
+    "description": "Displays all pinned and unpinned notes, allowing users to view and edit them along with pagination. Utilize Appwrite services to perform CRUD operations.",
+    "codeLink": "https://github.com/moheebk123/Note-Keeping",
+    "liveLink": "https://moheeb-khan-note-keeping.vercel.app",
+    "imgUrl": "../assets/note-keeping.png"
+  },
+  {
+    "title": "Coding Challenge",
+    "description": "Completed a coding challenge by Chai aur Code, implementing an OTP form, drag-and-drop course cards, and a paginated data table with a search filter.",
+    "codeLink": "https://github.com/moheebk123/Coding-Challenge",
+    "liveLink": "https://moheeb-khan-coding-challenge.vercel.app",
+    "imgUrl": "../assets/coding-challenge.png"
+  },
+  {
+    "title": "Text Editor",
+    "description": "Allows users to log in and register to edit documents in real time, displaying changes instantly and showing a list of collaborators with their active or inactive status. Build using MERN, Socket.io",
+    "driveLink": "https://drive.google.com/file/d/157Wv7oVEh_AwyLtjSDxEy5XICKHUn8Tk/view?usp=sharing",
+    "imgUrl": "../assets/text-editor.png"
+  }
+]
