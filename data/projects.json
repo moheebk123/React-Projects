@@ -49,6 +49,20 @@
     "imgUrl": "../assets/coding-challenge.png"
   },
   {
+    "title": "Food Blogging",
+    "description": "This webpage is based on a Figma design provided by `The Internet Folks` as part of an assignment. Clean, Responsive and Interactive webpage.",
+    "codeLink": "https://github.com/moheebk123/Food-Blogging",
+    "liveLink": "https://moheeb-khan-food-blogging.vercel.app",
+    "imgUrl": "../assets/food-blogging.png"
+  },
+  {
+    "title": "Hiring Page",
+    "description": "This is a small part of project to automates the hiring process. It includes a multi-step form with a real-time live preview that updates as users fill it out.",
+    "codeLink": "https://github.com/moheebk123/Hiring-Page",
+    "liveLink": "https://moheeb-khan-hiring-page.vercel.app",
+    "imgUrl": "../assets/hiring-page.png"
+  },
+  {
     "title": "Text Editor",
     "description": "Allows users to log in and register to edit documents in real time, displaying changes instantly and showing a list of collaborators with their active or inactive status. Build using MERN, Socket.io",
     "driveLink": "https://drive.google.com/file/d/157Wv7oVEh_AwyLtjSDxEy5XICKHUn8Tk/view?usp=sharing",
